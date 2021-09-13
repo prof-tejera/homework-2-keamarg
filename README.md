@@ -36,8 +36,8 @@ Deploy the application using one of the methods covered in class: Github Pages, 
 ## Submitting
 Edit this file (README.md) and complete the following:
 
-- URL to live application: 
-- How did you deploy it?
-- What code editor are you using?
+- URL to live application: https://keamarg.github.io/e39/my-first-app/build/
+- How did you deploy it? Using Github Pages
+- What code editor are you using? VS Code
 
 That is all!
