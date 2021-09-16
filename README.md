@@ -3,6 +3,7 @@
 This assignment is intented to help you set up your development environment for React. You will create a simple React App and deploy using one of the methods covered in lecture.
 
 ## Step 1
+
 - Install `npx` following the instructions here: https://www.npmjs.com/package/npx
 - run `npx create-react-app my-first-app` to create the React application
 - In the newly created app, replace the contents of `App.js` including your name:
@@ -31,13 +32,15 @@ export default App;
 - verify the app is running
 
 ## Step 2
+
 Deploy the application using one of the methods covered in class: Github Pages, Render, or AWS. If you prefer to use a different service, explain your choice and process.
 
 ## Submitting
+
 Edit this file (README.md) and complete the following:
 
-- URL to live application: 
-- How did you deploy it?
-- What code editor are you using?
+- URL to live application: https://keamarg.github.io/my-first-app/
+- How did you deploy it? Using Github Pages and Actions.
+- What code editor are you using? VS Code.
 
 That is all!
